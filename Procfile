@@ -1,1 +1,1 @@
-web: ./dist/bin/jsyn-server
+web: jsyn-server
